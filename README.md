@@ -2,6 +2,10 @@
 
 A project for building and managing AI agents powered by Google's Gemini model.
 
+FOR THE LOVE OF ALL THAT IS HOLY, THIS IS JUST A TEST TOOL. DO NOT USE IT WITHOUT TAKING A LOT OF CARE TO ISOLATE
+WHAT IT CAN TOUCH. I PASS IN THE WORKING DIRECTORY AS THE CALCULATOR APP BUT BE SURE YOU UNDERSTAND WHAT IS
+HAPPENING BEFORE YOU RUN IT.
+
 ## Overview
 
 This project provides a framework for creating intelligent agents that leverage the Gemini API to perform various tasks, including code generation, analysis, and automation.
@@ -35,6 +39,11 @@ Set your Gemini API key:
 ```bash
 export GEMINI_API_KEY=<your-api-key>
 ```
+
+or Create a .env file and paste the key in there.
+
+NB NB NB NB NB NB!!!
+DO NOT UPLOAD YOUR .env FILE TO A PUBLIC REPO. ADD IT TO GITIGNORE IMMEDIATELY!!!
 
 ### Usage
 
